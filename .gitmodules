@@ -1,0 +1,6 @@
+[submodule "filewave-client"]
+	path = filewave-client
+	url = https://github.com/Danish832/filewave-client.git
+[submodule "filewave-server"]
+	path = filewave-server
+	url = https://github.com/Danish832/filewave-server.git
